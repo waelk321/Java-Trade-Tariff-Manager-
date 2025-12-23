@@ -1,7 +1,7 @@
 # Java-Trade-Tariff-Manager-
 
 A Java program that loads tariff rules and trade data, updates product prices based on country/category rules,
-evaluates trade requests against minimum tariffs, and generates an updated trade report. This is a program that my collegue (Luyun Chen) & I, worked on for our class Comp249: Object-Oriented Programming II. The project includes a File-based execution which reads Tariffs.txt, TradeData.txt, and TradeRequests.txt, then writes UpdatedTradeData.txt. And a Testing section that tests to validate class behavior (constructors, cloning, equality, linked-list operations, and trade evaluation logic).
+evaluates trade requests against minimum tariffs, and generates an updated trade report. This is a program that my colleague (Luyun Chen) & I, worked on for our class Comp249: Object-Oriented Programming II. The project includes a File-based execution which reads Tariffs.txt, TradeData.txt, and TradeRequests.txt, then writes UpdatedTradeData.txt. And a Testing section that tests to validate class behavior (constructors, cloning, equality, linked-list operations, and trade evaluation logic).
 
 ## Features
 - Load **Tariffs.txt** into a custom linked-list (`TariffList`) and ignore duplicate tariff rules.
